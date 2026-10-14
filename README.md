@@ -1,37 +1,38 @@
-
 # Hi, I'm Darshani Mutyal 👋
 
-### MCA Graduate | Aspiring Data Analyst & Data Engineer
+### MCA Graduate | Aspiring Data Analyst | Data Engineering Enthusiast
 
-I'm an MCA graduate interested in data analytics, business intelligence, and data engineering. I enjoy working with data, finding meaningful insights, and building practical data-driven solutions.
+I'm an MCA graduate with a strong foundation in Python, SQL, data analytics, and data processing. I enjoy working with data to identify patterns, generate insights, and solve practical problems.
 
-## 🛠️ Technical Skills
+Currently strengthening my skills in data analytics and data engineering, including PySpark and Microsoft Azure.
+
+### 🛠️ Technical Skills
 
 - **Programming:** Python, SQL
-- **Data Analytics:** Pandas, NumPy, Exploratory Data Analysis
-- **Business Intelligence:** Power BI, DAX, Power Query
-- **Data Engineering:** PySpark, Azure Data Factory, Microsoft Azure
-- **Databases:** SQL Server, MySQL
-- **Tools:** Jupyter Notebook, VS Code, Git, GitHub
+- **Data Analysis:** Pandas, NumPy, Exploratory Data Analysis, Data Cleaning
+- **Visualization & BI:** Power BI, DAX, Power Query, Excel
+- **Databases:** MySQL, SQL Server
+- **Machine Learning:** Scikit-learn, Random Forest, Model Evaluation
+- **Data Engineering:** PySpark, Microsoft Azure fundamentals
+- **Tools:** Jupyter Notebook, Google Colab, VS Code, Git, GitHub
 
-## 📊 Featured Projects
+### 🚀 Featured Projects
 
-### Earthquake Impact Analysis and Alert System
-- Analyzed historical earthquake data using Python.
-- Developed a Random Forest model to classify earthquake alert levels.
-- Integrated predictions into a Flask application.
+**1. Earthquake Impact Analysis and Alert System**
 
-### Event Registration System
-- Developed a Python Flask-based event registration application.
-- Organized registration data and generated Excel reports for analysis.
+Built a machine-learning-based earthquake alert classification prototype using Python and Random Forest, with a Flask application and model evaluation visualizations.
 
-## 🎓 Education
+🔗 [View Project](https://github.com/Darshani0108/earthquake-alert-prediction)
 
-**Master of Computer Applications (MCA)**  
-Pimpri Chinchwad College of Engineering | 2023–2025
+### 🎯 Career Interests
 
-## 🤝 Connect With Me
+- Data Analyst
+- Power BI Developer
+- Data Engineer
 
-- [LinkedIn](https://www.linkedin.com/in/darshani-mutyal-kth/)
+### 🤝 Connect With Me
 
-I'm continuously learning and building projects to strengthen my skills in analytics and data engineering.
+- **LinkedIn:** [Darshani Mutyal](https://www.linkedin.com/in/darshani-mutyal-kth/)
+- **GitHub:** [Darshani0108](https://github.com/Darshani0108)
+
+I'm always eager to learn, build projects, and apply my technical skills to real-world data problems.
