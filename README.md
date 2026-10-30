@@ -18,11 +18,22 @@ Currently strengthening my skills in data analytics and data engineering, includ
 
 ### 🚀 Featured Projects
 
-**1. Earthquake Impact Analysis and Alert System**
+**1. Olist Medallion Data Engineering Pipeline**
 
-Built a machine-learning-based earthquake alert classification prototype using Python and Random Forest, with a Flask application and model evaluation visualizations.
+- Developed an end-to-end e-commerce data pipeline using PySpark and Delta Lake.
+- Implemented Bronze, Silver, and Gold layers following Medallion Architecture.
+- Performed data ingestion, cleaning, transformation, validation, and aggregation.
+- Built analytical data models and business insights using Spark SQL.
 
-🔗 [View Project](https://github.com/Darshani0108/earthquake-alert-prediction)
+**Technologies:** Python, PySpark, Apache Spark, Delta Lake, Spark SQL, Databricks.
+
+🔗 [View Olist Medallion Pipeline](https://github.com/Darshani0108/olist-medallion-pipeline)
+
+**2. Earthquake Impact Analysis and Alert System**
+
+Built a machine-learning-based earthquake alert classification prototype using Python, Random Forest, and Flask.
+
+🔗 [View Earthquake Prediction Project](https://github.com/Darshani0108/Earthquake-Alert-Prediction)
 
 ### 🎯 Career Interests
 
